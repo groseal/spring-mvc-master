@@ -1,4 +1,4 @@
-package web.controller;
+package groseal.web.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

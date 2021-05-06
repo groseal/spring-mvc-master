@@ -1,4 +1,4 @@
-package model;
+package groseal.model;
 
 public class Car {
     private String nameCar;
